@@ -1,5 +1,9 @@
-body {
-    
+table td {
+    border: none !important;
+}
+table th {
+    border-top: none !important;
+    border-bottom: none !important;
 }
 
 hr.footer {
@@ -19,8 +23,8 @@ hr.bold {
     color: rgb(70, 70, 70);
     text-decoration: none;
 }
-.final {
-    color: pink;
+.fontSml {
+    font-size: 14px;
 }
 .bold {
     font-style: bold;
